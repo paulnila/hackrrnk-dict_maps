@@ -1,7 +1,7 @@
 searching
-for a variable
+for a name
 in dictionary
 to display
 name
-and
+along with
 phone number
